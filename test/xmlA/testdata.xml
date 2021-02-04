@@ -1,0 +1,20 @@
+<data>
+	This is some data stuff with the following properties:
+	<property name="Prop A">A</property>
+	<property name="Prop B">B</property>
+	<property name="Prop C" specialty="customString" someOtherProp="bologina">asdf 1234 jax</property>
+	<property>
+		<li>1</li>
+		<li>2</li>
+		<li>3</li>
+		<li>4</li>
+	</property>
+	<id>00000000</id>
+asdf
+	<lvl1 lvl="1">
+		<lvl2 lvl="2">
+			<lvl3 lvl="3">Tri Level Stuff</lvl3>
+		</lvl2>
+	</lvl1>
+MoreData
+</data>

@@ -1,0 +1,8 @@
+<tagA>
+	<bla>Yes</bla>
+	<bla2 id="blabla"></bla>
+	<bla3 uuid="000000">bunch of zeros</bla3>
+</tagA>
+<tagA>
+	<bla id="blurb" uuid="11111">Sure thing boss</bla>
+</tagA>
